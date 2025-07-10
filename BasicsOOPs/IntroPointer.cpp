@@ -52,11 +52,6 @@ ptr->length=25;
 
 
 
-
-
-     
-
-
     return 0;
      
 }
